@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sazie101/react-gh-test/static/css/main.405d2b8b.css",
+    "main.js": "/Sazie101/react-gh-test/static/js/main.93264e73.js",
+    "index.html": "/Sazie101/react-gh-test/index.html",
+    "main.405d2b8b.css.map": "/Sazie101/react-gh-test/static/css/main.405d2b8b.css.map",
+    "main.93264e73.js.map": "/Sazie101/react-gh-test/static/js/main.93264e73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405d2b8b.css",
+    "static/js/main.93264e73.js"
+  ]
+}
