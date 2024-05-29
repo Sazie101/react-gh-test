@@ -1,7 +1,7 @@
 {
   "name": "intro",
   "version": "0.1.0",
-  "homepage": "https://github.com/Sazie101.github.io/react-gh-test",
+  "homepage": "https://sazie101.github.io/react-gh-test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
